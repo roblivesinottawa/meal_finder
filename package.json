@@ -1,0 +1,12 @@
+{
+  "name": "PROJECT_7",
+  "version": "1.0.0",
+  "description": "Search and generate random meals from the [themealdb.com](www.themealdb.com) API",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
